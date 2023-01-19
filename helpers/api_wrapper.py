@@ -5,6 +5,8 @@ from dotenv import load_dotenv
 import os
 import requests as re
 
+load_dotenv()
+
 ## endpoint
 apiEndpoint = "https://public-api.defiyield.app"
 
