@@ -2,3 +2,10 @@
 .env
 .env.local
 .env.dev
+
+#checkpoints
+.ipynb_checkpoints
+
+#other python
+__pycache__
+
