@@ -5,8 +5,8 @@
 .env.production
 
 #checkpoints
-.ipynb_checkpoints
+.ipynb_checkpoints/
 
 #other python
-__pycache__
+__pycache__/
 
