@@ -5,6 +5,8 @@ Analysis of DefiYield's "Rekt database"
 Install libraries:
 * `dotenv` to fetch environment variables (api key): `pip3 install python-dotenv`
 * `requests` for api queries: `pip3 install requests`
+* `pandas` for data handling/processing: `pip3 install pandas`
+* `matplotlib` for data visualization: `pip3 install matplotlib`
 
 # Run the notebook
 If you want to run the notebook on your machine: 
